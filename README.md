@@ -9,6 +9,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hananeel-2023&show_icons=true&locale=en&layout=compact" alt="hananeel-2023" /></p>
 
-
+<p>Check out the recent projects I've worked on</p>
+👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼
 
 
