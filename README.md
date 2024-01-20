@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/HananeEL-2023/HananeEL-2023/assets/57252797/38762e27-034d-4052-a721-9020967135d6"/>
+<img src="https://github.com/HananeEL-2023/HananeEL-2023/assets/57252797/38762e27-034d-4052-a721-9020967135d6" height="50"/>
 
 <!--
 **HananeEL-2023/HananeEL-2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
