@@ -8,8 +8,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hananeel-2023&" alt="hananeel-2023" /></p>
 
-<div><p>Check out the recent projects I've worked on</p>
-👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼</div>
-
 
 
