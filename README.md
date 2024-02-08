@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hanane</h1>
+<p align="center">Welcome to my profile! I'm a front-end developer, committed to designing sleek and intuitive user interfaces that elevate digital experiences.</p>
+<p align="center">Let's turn ideas into reality!</p>
+<br>
+
 <img src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" width="300" align="right">
+
 
  * 👩🏼‍💻 Front-end developer
 
