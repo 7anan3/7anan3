@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hanane</h1>
+<img src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" width="300" align="right">
 
  * 👩🏼‍💻 Front-end developer
 
