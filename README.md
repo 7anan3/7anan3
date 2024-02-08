@@ -16,7 +16,7 @@
 <br>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hananeel-2023&show_icons=true&locale=en&layout=compact" alt="hananeel-2023" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hananeel-2023&show_icons=true&locale=en&layout=compact" alt="hananeel-2023" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hananeel-2023&" alt="hananeel-2023" align="right"/>
 
 
